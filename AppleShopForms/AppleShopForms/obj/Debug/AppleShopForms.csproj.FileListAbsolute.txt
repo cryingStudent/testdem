@@ -1,0 +1,11 @@
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\bin\Debug\AppleShopForms.exe.config
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\bin\Debug\AppleShopForms.exe
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\bin\Debug\AppleShopForms.pdb
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.Properties.Resources.resources
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.exe
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.pdb
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.View.EntryForm.resources
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.View.AddForm.resources
+C:\Users\ПК\source\repos\AppleShopForms\AppleShopForms\obj\Debug\AppleShopForms.View.SearchForm.resources
